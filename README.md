@@ -30,10 +30,10 @@ Past
 - CANS, SecureComm, ESORICS, Africacrypt, ACNS
 
  2018
-- ESORICS, Securecomm
+- ESORICS, SecureComm
 
  2017
-- ISC, SECURECOMM, PST, ESORICS, ACNS
+- ISC, SecureComm, PST, ESORICS, ACNS
 
  2016
 - Inscrypt, WPES, CANS
