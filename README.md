@@ -1,7 +1,4 @@
 
-# Jack P. K. Ma 
-email: mpk016 "at" ie.cuhk.edu.hk
-
 ## About
 I am a Ph.D. student at the Chinese University of Hong Kong. My research area includes *privacy preserving machine learning, anonymous credentials and secure multiparty computation*. My supervisor is [Prof. Sherman S. M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/)
 
