@@ -24,19 +24,19 @@ Past
 - The Web, USENIX Security 
 
  2020
-- CANS, ESORICS, ACNS, CT-RSA  
+- ACNS, CANS, CT-RSA, ESORICS 
 
  2019
-- CANS, SecureComm, ESORICS, Africacrypt, ACNS
+- ACNS, Africacrypt, CANS, ESORICS, SecureComm 
 
  2018
 - ESORICS, SecureComm
 
  2017
-- ISC, SecureComm, PST, ESORICS, ACNS
+- ACNS, ESORICS, ISC, PST, SecureComm  
 
  2016
-- Inscrypt, WPES, CANS
+- CANS, Inscrypt, WPES, 
 
 
 ## Publication
