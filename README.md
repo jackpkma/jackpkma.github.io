@@ -1,17 +1,39 @@
 
 # Jack P. K. Ma 
-### mpk016 "at" ie.cuhk.edu.hk
+email: mpk016 "at" ie.cuhk.edu.hk
+
+## About
+I am a Ph.D. student at the Chinese University of Hong Kong. My research area includes *privacy preserving machine learning, anonymous credentials and secure multiparty computation*. My supervisor is [Prof. Sherman S. M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/)
+
+## Education
+- Ph.D. in Information Engineering, CUHK, 2016 - Present 
+- B.Sc. in Mathematics and Information Engineering, CUHK, 2012 - 2016
+
+## Teaching Assistant
+
+Past 
+- CSCI 2100
+- IERG 3080
+- IERG 3800
+- IERG 4210
+- IERG 4220
 
 ## External Reviews 
 
-- The Web 2021, USENIX Security 2021 
+ 2021
+- The Web, USENIX Security 
 
-- CANS 2020, ESORICS 2020, ACNS 2020, CT-RSA 2020 
+ 2020
+- CANS, ESORICS, ACNS, CT-RSA  
 
-- CANS 2019, SecureComm 2019, ESORICS 2019, Africacrypt 2019, ACNS 2019 
+ 2019
+- CANS, SecureComm, ESORICS, Africacrypt, ACNS
 
-- ESORICS 2018, Securecomm 2018
+ 2018
+- ESORICS, Securecomm
 
-- ISC 2017, SECURECOMM 2017, PST 2017, ESORICS 2017, ACNS 2017 
+ 2017
+- ISC, SECURECOMM, PST, ESORICS, ACNS
 
-- Inscrypt 2016, WPES 2016, CANS 2016
+ 2016
+- Inscrypt, WPES, CANS
