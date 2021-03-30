@@ -9,11 +9,12 @@ I am a Ph.D. student at the Chinese University of Hong Kong. My research area in
 ## Teaching Assistant
 
 Past 
-- CSCI 2100
-- IERG 3080
-- IERG 3800
-- IERG 4210
-- IERG 4220
+- CSCI 2100 Data Structures (2017 2nd Term, 2018 2nd Term, 2019 2nd Term)
+- IERG 3080 Information and Software Engineering Practice (2018 1st Term, 2019 1st Term, 2020 1st Term)
+- IERG 3800 Information Infrastructure Design Lab (2017 1st Term)
+- IERG 4210 Web Programming and Security (2016 1st Term)
+- IERG 4220 Secure Software Engineering (2016 2nd Term)
+*Outstanding Teaching Award: 2016 1st Term, 2018 1st Term*
 
 ## External Reviews 
 
@@ -34,3 +35,9 @@ Past
 
  2016
 - Inscrypt, WPES, CANS
+
+
+## Publication
+- **Jack P. K. Ma**, Raymond K. H. Tai, Yongjun Zhao, Sherman S. M. Chow: Let's Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation. NDSS 2021
+- Harry W. H. Wong, **Jack P. K. Ma**, Donald P. H. Wong, Lucien K. L. Ng, Sherman S. M. Chow: Learning Model with Error - Exposing the Hidden Model of BAYHENN. IJCAI 2020: 3529-3535
+- Raymond K. H. Tai, **Jack P. K. Ma**, Yongjun Zhao, Sherman S. M. Chow: Privacy-Preserving Decision Trees Evaluation via Linear Functions. ESORICS (2) 2017: 494-512
