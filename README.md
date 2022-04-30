@@ -23,8 +23,11 @@ Past
 
 ## External Reviews 
 
+ 2022
+- ACNS, AsiaCCS, ESORICS, PoPETS
+
  2021
-- The Web, USENIX Security 
+- ESORICS, ICISC, The Web, USENIX Security 
 
  2020
 - ACNS, CANS, CT-RSA, ESORICS 
@@ -43,6 +46,11 @@ Past
 
 
 ## Publication
+
+- **Jack P. K. Ma**, Sherman S. M. Chow: Secure-Computation-Friendly Private Set Intersection from Oblivious Compact Graph Evaluation. ASIACCS 2022 (To Appear).
+
 - **Jack P. K. Ma**, Raymond K. H. Tai, Yongjun Zhao, Sherman S. M. Chow: Let's Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation. NDSS 2021
+
 - Harry W. H. Wong, **Jack P. K. Ma**, Donald P. H. Wong, Lucien K. L. Ng, Sherman S. M. Chow: Learning Model with Error - Exposing the Hidden Model of BAYHENN. IJCAI 2020: 3529-3535
+
 - Raymond K. H. Tai, **Jack P. K. Ma**, Yongjun Zhao, Sherman S. M. Chow: Privacy-Preserving Decision Trees Evaluation via Linear Functions. ESORICS (2) 2017: 494-512
