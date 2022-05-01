@@ -42,14 +42,16 @@ Past
 - ACNS, ESORICS, ISC, PST, SecureComm  
 
  2016
-- CANS, Inscrypt, WPES, 
+- CANS, Inscrypt, WPES
 
 
 ## Publication
 
-- **Jack P. K. Ma**, Sherman S. M. Chow: Secure-Computation-Friendly Private Set Intersection from Oblivious Compact Graph Evaluation. ASIACCS 2022 (To Appear).
+- **Jack P. K. Ma**, Sherman S. M. Chow: Secure-Computation-Friendly Private Set Intersection from Oblivious Compact Graph Evaluation. ASIACCS 2022 (To Appear)
 
 - **Jack P. K. Ma**, Raymond K. H. Tai, Yongjun Zhao, Sherman S. M. Chow: Let's Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation. NDSS 2021
+
+- Hoover H. F. Yin, Xishi Wang, Ka Hei Ng, Russell W. F. Lai, Lucien K. L. Ng, **Jack P. K. Ma**: On Multi-Channel Huffman Codes for Asymmetric-Alphabet Channels. ISIT 2021
 
 - Harry W. H. Wong, **Jack P. K. Ma**, Donald P. H. Wong, Lucien K. L. Ng, Sherman S. M. Chow: Learning Model with Error - Exposing the Hidden Model of BAYHENN. IJCAI 2020: 3529-3535
 
