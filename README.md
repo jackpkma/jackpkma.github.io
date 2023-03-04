@@ -23,8 +23,11 @@ Past
 
 ## External Reviews 
 
+ 2023
+- ACNS, The Web, PoPETS
+
  2022
-- ACNS, AsiaCCS, ESORICS, PoPETS
+- ACNS, AsiaCCS, CCS, ESORICS, IFS, INDOCRYPT, PoPETS
 
  2021
 - ESORICS, ICISC, The Web, USENIX Security 
@@ -47,7 +50,9 @@ Past
 
 ## Publication
 
-- **Jack P. K. Ma**, Sherman S. M. Chow: Secure-Computation-Friendly Private Set Intersection from Oblivious Compact Graph Evaluation. ASIACCS 2022 (To Appear)
+- Harry W. H. Wong, **Jack P. K. Ma**, Hoover H. F. Yin, Sherman S. M. Chow: Real Threshold ECDSA. NDSS 2023
+
+- **Jack P. K. Ma**, Sherman S. M. Chow: Secure-Computation-Friendly Private Set Intersection from Oblivious Compact Graph Evaluation. ASIACCS 2022
 
 - **Jack P. K. Ma**, Raymond K. H. Tai, Yongjun Zhao, Sherman S. M. Chow: Let's Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation. NDSS 2021
 
