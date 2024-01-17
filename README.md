@@ -8,34 +8,18 @@ I am a Lecturer at the Chinese University of Hong Kong. My research area include
 
 ## Program Committee Member
 
- 2024
-- PoPETs
+- 2024: PoPETs
 
 ## External Reviews 
-
- 2023
-- ACNS, Euro S&P, ICDSC, INDOCRYPT, TDSC, The Web, PoPETS
-
- 2022
-- ACNS, AsiaCCS, CCS, ESORICS, IFS, INDOCRYPT, PoPETS
-
- 2021
-- ESORICS, ICISC, The Web, USENIX Security 
-
- 2020
-- ACNS, CANS, CT-RSA, ESORICS 
-
- 2019
-- ACNS, Africacrypt, CANS, ESORICS, SecureComm 
-
- 2018
-- ESORICS, SecureComm
-
- 2017
-- ACNS, ESORICS, ISC, PST, SecureComm  
-
- 2016
-- CANS, Inscrypt, WPES
+ 
+- 2023: ACNS, Euro S&P, ICDSC, INDOCRYPT, TDSC, The Web, PoPETS
+- 2022: ACNS, AsiaCCS, CCS, ESORICS, IFS, INDOCRYPT, PoPETS
+- 2021: ESORICS, ICISC, The Web, USENIX Security 
+- 2020: ACNS, CANS, CT-RSA, ESORICS 
+- 2019: ACNS, Africacrypt, CANS, ESORICS, SecureComm 
+- 2018: ESORICS, SecureComm
+- 2017: ACNS, ESORICS, ISC, PST, SecureComm  
+- 2016: CANS, Inscrypt, WPES
 
 
 ## Publication
