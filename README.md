@@ -1,30 +1,20 @@
 
 ## About
-I am a Ph.D. student at the Chinese University of Hong Kong. My research area includes *privacy preserving machine learning, anonymous credentials and secure multiparty computation*. My supervisor is [Prof. Sherman S. M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/).
+I am a Lecturer at the Chinese University of Hong Kong. My research area includes *privacy preserving machine learning, anonymous credentials and secure multiparty computation*. My PhD supervisor is [Prof. Sherman S. M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/).
 
 ## Education
-- Ph.D. in Information Engineering, CUHK, 2016 - Present 
+- Ph.D. in Information Engineering, CUHK, 2016 - 2023 
 - B.Sc. in Mathematics and Information Engineering, CUHK, 2012 - 2016
 
-## Teaching Assistant
+## Program Committee Member
 
-Past 
-- 2020 1st Term. IERG 3080 Information and Software Engineering Practice
-- 2019 2nd Term. CSCI 2100 Data Structures
-- 2019 1st Term. IERG 3080 Information and Software Engineering Practice
-- 2018 2nd Term. CSCI 2100 Data Structures
-- 2018 1st Term. IERG 3080 Information and Software Engineering Practice
-- 2017 2nd Term. CSCI 2100 Data Structures
-- 2017 1st Term. IERG 3800 Information Infrastructure Design Lab
-- 2016 2nd Term. IERG 4220 Secure Software Engineering
-- 2016 1st Term. IERG 4210 Web Programming and Security
-
-*Outstanding Teaching Award: 2016 1st Term, 2018 1st Term*
+ 2024
+- PoPETs
 
 ## External Reviews 
 
  2023
-- ACNS, The Web, PoPETS
+- ACNS, Euro S&P, ICDSC, INDOCRYPT, TDSC, The Web, PoPETS
 
  2022
 - ACNS, AsiaCCS, CCS, ESORICS, IFS, INDOCRYPT, PoPETS
