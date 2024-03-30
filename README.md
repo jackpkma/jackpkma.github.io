@@ -24,6 +24,12 @@ I am a Lecturer at the Chinese University of Hong Kong. My research area include
 
 ## Publication
 
+- Harry W. H. Wong, **Jack P. K. Ma**, Sherman S. M. Chow. Secure Multiparty Computation of Threshold Signatures Made More Efficient. NDSS 2024.
+
+- **Jack P. K. Ma**, Sherman S. M. Chow. SMART credentials in the multi-queue of slackness (or Secure management of anonymous reputation traits without global halting). EuroS&P 2024.
+
+- Sherman S.M. Chow, **Jack P.K. Ma**, Tsz Hon Yuen. Scored anonymous credentials. ACNS 2023.
+
 - Harry W. H. Wong, **Jack P. K. Ma**, Hoover H. F. Yin, Sherman S. M. Chow: Real Threshold ECDSA. NDSS 2023
 
 - **Jack P. K. Ma**, Sherman S. M. Chow: Secure-Computation-Friendly Private Set Intersection from Oblivious Compact Graph Evaluation. ASIACCS 2022
